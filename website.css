@@ -1,0 +1,130 @@
+img {
+	width:100px;
+	height: auto;
+	padding-bottom: 5px;
+	padding-top: 0px;
+}
+
+#wrapper {
+
+	margin: 0 auto;
+	min-height: 0 auto;
+}
+
+
+h1 {
+	text-align: left;
+	font-family: copperplate; copperplate gothic light;
+
+
+
+
+}
+
+#nav-items {
+	
+	text-align: center;
+	
+}
+
+li {
+	padding: 30px 30px 30px 30px;
+	border-radius: 10%;
+	display: inline;
+	border-width: medium;
+	border-style: mirror;
+	border-color: chrome;
+
+
+}
+	
+li a {
+
+	text-decoration: none;
+	padding-right: 50px;
+	padding-left: 50px;
+	font-family: copperplate; copperplate gothic light;
+}
+
+a:link {
+	color: blue;
+}
+
+a:visited {
+	color: blue;
+}
+
+a:hover {
+
+	color: gray;
+}
+
+a:active {
+
+	color: gray;
+
+}
+
+img {
+	float: right;
+	max-height: 50px;
+	max-width: 0 auto;
+}
+
+#textbox1 {
+	padding-top: 100px;
+	float:left;
+	width: 33%;
+	margin-left: 0 auto;
+}
+
+#textbox2 {
+	padding-top: 100px;
+	float:left;
+	width: 33%;
+	margin-left: 0 auto;
+}
+	
+}
+
+#textbox3 {
+	padding-top: 300px;
+	float:left;
+	width: 33%;
+	margin-left: 0 auto;
+	
+}
+
+nav{
+	position: absolute;
+
+}
+
+footer{
+	float: left;
+	margin-left: 0 auto;
+}
+
+#left {
+	
+	float: left;
+	max-width: 50%;
+}
+
+#right {
+	
+	
+	border-width: 5px;
+	float:right;
+}
+
+h2 {
+	padding-top: 100px;
+}
+#main {
+	border:solid;
+	border-width: 40px;
+	padding-left: 40px;
+	padding-top: 40px;
+	padding-right: 40px;
+}
